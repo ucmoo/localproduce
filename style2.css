@@ -12,7 +12,7 @@
 html {
 	background: black;
 	font-family: courier, monospace;
-	color: white;
+	color: green;
 	height: 100%;
 }
 
@@ -35,9 +35,9 @@ body {
 
 .grid-item__image {
 	width: 100%;
-	height: intrinsic;
 	display: flex;
 	justify-content: center;
+	align-items: flex-start;
 	padding: 2rem;
 }
 

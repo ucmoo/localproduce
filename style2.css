@@ -35,7 +35,7 @@ body {
 
 .grid-item__image {
 	width: 100%;
-	height: auto;
+	height: intrinsic;
 	display: flex;
 	justify-content: center;
 	padding: 2rem;
